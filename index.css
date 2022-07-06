@@ -65,7 +65,6 @@ background-position: right;
 }
 .alvi5{
   display: flex;
-  padding-top: 10vh;
 }
 h3{
   color:orange;
@@ -83,6 +82,7 @@ text-align: center;
 margin: 5vh;
 padding-left: 2.5vw;
 padding-right: 2.5vw;
+box-shadow: 5px 5px 5px 5px;
 }
 #al7{
   background-image: linear-gradient(orange, tomato);
@@ -96,7 +96,13 @@ padding-top: 2vh;
 padding-bottom: 5vh;
 padding-left: 5vw;
 padding-right: 5vw;
+box-shadow: 5px 5px 5px 5px;
 }
 #bd{
   color: brown;
+}
+
+.a1 h1{
+  color: black;
+  padding-top: 3vh;
 }
