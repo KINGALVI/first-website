@@ -85,15 +85,15 @@ padding-right: 7vw;
   margin: auto;
 }
 #al3 img{
-  height: 35vh;
-  width: 50vw;
+  height: 37vh;
+  width: 75vw;
 }
 #al4{
   margin: auto;
 }
 #al4 img{
-  height: 35vh;
-  width: 50vw;
+  height: 37vh;
+  width: 75vw;
 }
 .alvi2{
   padding-top: 15vh;
@@ -108,43 +108,68 @@ background-position: right;
   background-repeat: no-repeat;
 }
 .alvi5{
+  height: 100%;
+  width: 100%;
   display: grid;
+padding-top: 7.5vh;
 }
 .alvi4{
   color:slategray;
 }
 #al6{
   background-image: linear-gradient(rgb(0, 255, 234), rgb(206, 255, 71));
-height: 50%;
-width: 50%;
+height: 100%;
+width: 80%;
 border: 5px solid rgb(0, 255, 234);
 border-radius: 50px;
 text-align: center;
-margin: 5vh;
-padding-left: 2.5vw;
-padding-right: 2.5vw;
+margin:auto;
 box-shadow: 5px 5px 5px 5px;
+}
+h2{
+  padding-top: 5vh;
+}
+.a1 h1{
+
+padding-left: 2vw;
+  color:black;
+}
+#a8{
+  padding-right: 13vw;
+  text-align: center;
+  color: #000;
+  padding-bottom: 7.5vh;
+}
+#a9{
+  padding-right: 13vw;
+  text-align: center;
+  color: #000;
+  padding-bottom: 7.5vh;
+}
+#a10{
+  padding-bottom: 7.5vh;
+}
+#a11{
+  padding-right: 13vw;
+  text-align: center;
+}
+#a12{
+  padding-right: 13vw;
+  text-align: center;
+  color: brown;
 }
 #al7{
   background-image: linear-gradient(orange, tomato);
 border-radius: 50px;
 border: 5px solid orange;
-height: 50%;
-width: 50%;
+height: 80%;
+width: 75%;
 text-align: center;
-margin: 5vh;
-padding-top: 2vh;
-padding-bottom: 5vh;
-padding-left: 5vw;
-padding-right: 5vw;
+margin: auto;
 box-shadow: 5px 5px 5px 5px;
 }
 #bd{
   color: brown;
 }
 
-.a1 h1{
-  color: black;
-  padding-top: 3vh;
-}
 }

@@ -74,8 +74,11 @@ background-position: right;
 .alvi5{
   display: flex;
 }
-h3{
-  color:orange;
+#a12{
+  color:brown;
+}
+#a11{
+  color: orange;
 }
 .alvi4{
   color:slategray;
@@ -101,16 +104,17 @@ width: 50%;
 text-align: center;
 margin: 5vh;
 padding-top: 2vh;
-padding-bottom: 5vh;
+padding-bottom: 5.7vh;
 padding-left: 5vw;
 padding-right: 5vw;
 box-shadow: 5px 5px 5px 5px;
 }
-#bd{
+#a9{
   color: brown;
 }
 
 .a1 h1{
   color: black;
   padding-top: 3vh;
+  padding-left: 3vw;
 }
