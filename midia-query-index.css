@@ -1,22 +1,71 @@
-
+@media (max-width:500px) {
+  
 body{
   font-family: 'Poppins', sans-serif;
   margin: 0;
 }
 h1{
   font-size: 50px;
+  text-align: center;
+  padding-left: 17vw;
+}
+h3{
+  color:orange;
+  text-align: center;
+  padding-left: 15vw;
+}
+p{
+  text-align: center;
+  margin: auto;
+padding-left: 15vw;
+}
+#a2 a {
+  text-decoration: none;
+  padding:10px 40px; 
+  background-image: linear-gradient(orange, tomato);
+  color: wheat;
+  font-weight: bolder;
+  border-radius: 5px;
+  margin: auto;
+}
+#a2{
+  padding-left: 14vh;
 }
 #a1{
   color: orange;
 }
+#a3{
+  padding-left: 7vw;
+padding-right: 7vw;
+}
+#a4{
+  padding-right: 19vw;
+}
+#a5{
+  display: grid;
+  align-items: center;
+}
+#a6{
+  padding-right: 22vw;
+}
+#a7{
+  padding-left: 8vh;
+}
+#a7 a {
+  text-decoration: none;
+  padding:10px 40px; 
+  background-image: linear-gradient(orange, tomato);
+  color: wheat;
+  font-weight: bolder;
+  border-radius: 5px;
+}
 .alvi1{
-  display: flex;
+  display: grid;
   background-image: url(top-banner.png);
   background-repeat: no-repeat;
 }
 #al1{
-  padding-right: 15vw;
-  padding-left: 2.5vw;
+  order: 2;
 }
 /* #al1 a{
   display: inline-block;
@@ -31,40 +80,27 @@ h1{
   border: 5px solid rgb(240, 139, 121);
   border-radius: 50px;
 } */
-#a2 a {
-  text-decoration: none;
-  padding:10px 40px; 
-  background-image: linear-gradient(orange, tomato);
-  color: wheat;
-  font-weight: bolder;
-  border-radius: 5px;
-}
-#a7 a {
-  text-decoration: none;
-  padding:10px 40px; 
-  background-image: linear-gradient(orange, tomato);
-  color: wheat;
-  font-weight: bolder;
-  border-radius: 5px;
+#al3{
+  order: 1;
+  margin: auto;
 }
 #al3 img{
-  height: 80vh;
-  width: 40vw;
-}
-#al4 img{
-  height: 80vh;
-  width: 40vw;
+  height: 35vh;
+  width: 50vw;
 }
 #al4{
-  padding-right: 9vw;
-  padding-left: 2.5vw;
+  margin: auto;
+}
+#al4 img{
+  height: 35vh;
+  width: 50vw;
 }
 .alvi2{
   padding-top: 15vh;
   background-image: url(dream-bg.png);
   background-repeat: no-repeat;
 background-position: right;
-  display: flex;
+  display: grid;
 }
 .alvi3{
   display: inline-block;
@@ -72,10 +108,7 @@ background-position: right;
   background-repeat: no-repeat;
 }
 .alvi5{
-  display: flex;
-}
-h3{
-  color:orange;
+  display: grid;
 }
 .alvi4{
   color:slategray;
@@ -113,4 +146,5 @@ box-shadow: 5px 5px 5px 5px;
 .a1 h1{
   color: black;
   padding-top: 3vh;
+}
 }
